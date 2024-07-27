@@ -7,7 +7,7 @@ USER_AGENT = 'your_script_name:v1.0 (by /u/your_username)'
 USERNAME = 'your_reddit_username'
 PASSWORD = 'your_reddit_password'
 
-# Initialize Reddit instance
+
 reddit = praw.Reddit(
     client_id=CLIENT_ID,
     client_secret=CLIENT_SECRET,
