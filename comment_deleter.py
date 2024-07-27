@@ -3,7 +3,7 @@ import praw
 # Replace these values with your credentials
 CLIENT_ID = 'your_client_id'
 CLIENT_SECRET = 'your_client_secret'
-USER_AGENT = 'test:v1.0 (by /u/your_username)'
+USER_AGENT = 'your_script_name:v1.0 (by /u/your_username)'
 USERNAME = 'your_reddit_username'
 PASSWORD = 'your_reddit_password'
 
