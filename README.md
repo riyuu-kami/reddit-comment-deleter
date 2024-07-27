@@ -11,6 +11,7 @@
 - Go to [Reddit App Preferences](https://www.reddit.com/prefs/apps).
 - Create a new application and select "script" as the application type.
 - redirect url should be http://localhost:8080 or something similar
+- create app
 - Note down your:
    ```
       - Client ID: it should be below your script name after creating the app
