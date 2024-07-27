@@ -18,4 +18,4 @@
       - User Agent: it's probably 'your_script_name:v1.0 (by /u/your_username)'
 
 ### 3. run the python script
-##### open comment_deleter.py and run it, if it stops after deleting a dozen of comments just run it again
+- open comment_deleter.py and run it, if it stops after deleting a dozen of comments just run it again
