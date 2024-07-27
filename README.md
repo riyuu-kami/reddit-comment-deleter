@@ -9,7 +9,7 @@
 
 - Go to [Reddit App Preferences](https://www.reddit.com/prefs/apps).
 - Create a new application and select "script" as the application type.
-- redirect url should be http://localhost:8080 or something similar
+- redirect uri should be http://localhost:8080 or something similar
 - create app
 - Note down your:
    ```
