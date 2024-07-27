@@ -1,10 +1,9 @@
-## Setup Instructions
-
 ### 1. Install PRAW
 
 - Open a terminal or command prompt and run:
-  ```bash
+```ruby
   pip install praw
+```
 
 ### 2. Create a Reddit App
 
