@@ -1,19 +1,12 @@
 import praw
 
 # Replace these values with your credentials
-CLIENT_ID = 'your_client_id'
-CLIENT_SECRET = 'your_client_secret'
-USER_AGENT = 'your_script_name:v1.0 (by /u/your_username)'
-USERNAME = 'your_reddit_username'
-PASSWORD = 'your_reddit_password'
-
-
 reddit = praw.Reddit(
-    client_id=CLIENT_ID,
-    client_secret=CLIENT_SECRET,
-    user_agent=USER_AGENT,
-    username=USERNAME,
-    password=PASSWORD
+    client_id=your_client_id,
+    client_secret=your_client_secret,
+    user_agent=your_script_name:v1.0 (by /u/your_username),
+    username=your_username,
+    password=your_password
 )
 
 # Function to delete all comments
